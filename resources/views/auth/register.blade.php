@@ -66,6 +66,7 @@
                                 <button type="submit" class="btn btn-primary">
                                     {{ __('Register') }}
                                 </button>
+                                <button onclick="history.back()">戻る</button>
                             </div>
                         </div>
                     </form>
